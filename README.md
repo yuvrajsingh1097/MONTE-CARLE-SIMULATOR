@@ -16,3 +16,15 @@ matplotlib — 4-panel dark chart
 scipy.stats — KDE for smooth distribution overlays
 pytest — 20+ unit + statistical property tests
 
+
+
+
+
+
+Customizable Distributions: Support for Normal, Log-Normal, Uniform, and Poisson distributions.
+
+Parallel Processing: Leverages multi-core CPUs for high-speed iterations.
+
+Visual Analytics: Generates probability density functions (PDF) and cumulative distribution functions (CDF).
+
+Sensitivity Analysis: Identify which input variables have the greatest impact on your results.
