@@ -19,6 +19,17 @@ pytest — 20+ unit + statistical property tests
 
 
 
+Periodic Daily Return=ln( 
+Previous Day’s Price
+Day’s Price
+​
+ )
+​
+
+
+
+
+
 
 
 Customizable Distributions: Support for Normal, Log-Normal, Uniform, and Poisson distributions.
