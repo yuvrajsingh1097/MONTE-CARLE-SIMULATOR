@@ -39,3 +39,5 @@ Parallel Processing: Leverages multi-core CPUs for high-speed iterations.
 Visual Analytics: Generates probability density functions (PDF) and cumulative distribution functions (CDF).
 
 Sensitivity Analysis: Identify which input variables have the greatest impact on your results.
+
+WORKS ON FOREX 
