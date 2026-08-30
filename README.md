@@ -7,7 +7,7 @@ With 1,000 simulations the probability estimates (e.g. P(profit)) converge to wi
 Real stocks have fat tails — the 5th and 95th percentile outcomes happen more often than GBM predicts
 
 
-Tech stack
+Tech stack hnh
 
 yfinance — historical price data
 numpy — vectorised GBM simulation
