@@ -12,7 +12,7 @@ Tech stack hnh
 yfinance — historical price data
 numpy — vectorised GBM simulation
 pandas — data handling and parameter estimations in the 
-
+s
 matplotlib — 4-panel dark chart
 scipy.stats — KDE for smooth distribution overlays
 pytest — 20+ unit + statistical property tests
