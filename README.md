@@ -8,7 +8,7 @@ Real stocks have fat tails — the 5th and 95th percentile outcomes happen more 
 
 
 Tech stack hnh
-n
+njj
 yfinance — historical price data
 numpy — vectorised GBM simulationn
 pandas — data handling and parameter estimations in the 
