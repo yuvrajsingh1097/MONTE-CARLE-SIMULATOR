@@ -6,7 +6,7 @@ The median path always ends below the mean path under GBM — because log-normal
 With 1,000 simulations the probability estimates (e.g. P(profit)) converge to within ~2% of the true values; with 10,000 they're very stable
 Real stocks have fat tails — the 5th and 95th percentile outcomes happen more often than GBM predicts
 
-
+nn
 Tech stack hnh
 njj
 yfinance — historical price data
